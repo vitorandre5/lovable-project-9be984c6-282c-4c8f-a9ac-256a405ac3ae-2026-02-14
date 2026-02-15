@@ -36,8 +36,8 @@ export function AppSidebar() {
             <TrendingUp className="w-5 h-5 text-primary-foreground" />
           </div>
           <div>
-            <h1 className="text-sm font-bold text-foreground tracking-tight">BetTracker</h1>
-            <p className="text-[10px] text-muted-foreground">Gestão de Apostas</p>
+            <h1 className="text-sm font-bold text-foreground tracking-tight">SafeT1ps</h1>
+            <p className="text-[10px] text-muted-foreground">Tracker de Apostas</p>
           </div>
         </div>
       </SidebarHeader>
